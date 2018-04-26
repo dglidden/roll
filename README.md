@@ -5,7 +5,7 @@ Weechat plugin to roll dice with modifiers
 ## example syntax:
 
 | input:           | result: |
-| ---------------- |:--------|
+| :---------------- |:--------|
 | /roll            | display help text |
 | /roll hello         | "[1d20] hello" |
 | /roll 10            | "[1d10]" |
