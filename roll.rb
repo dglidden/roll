@@ -4,9 +4,9 @@
 # see http://weechat.flashtux.org/doc/en/ch04s04s03.html for plugin API info
 #
 # this code is licensed under the GPL v2 yadda yadda
-# contact me at: ledgekindred@gmail.com
+# contact me at: dglidden@gmail.com
 # the latest version is always at:
-# https://code.launchpad.net/~dglidden/+junk/weechat
+# https://github.com/dglidden/roll
 #
 # 2009.01.14
 #   added default 1..20 if no number value is present
